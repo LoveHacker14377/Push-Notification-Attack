@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+
+# Icons (optional - remove if you want to include default icons)
+icons/*.png
+icons/*.jpg
+icons/*.jpeg
+
+# Cloudflare
+.cloudflared/
+*.json
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
